@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import './Navbar.css';
 
 const Navbar = () => {
   const [isMobile, setIsMobile] = useState(false);
